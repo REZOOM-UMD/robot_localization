@@ -53,8 +53,9 @@
 
 #include <GeographicLib/Geocentric.hpp>
 #include <GeographicLib/LocalCartesian.hpp>
-#include <GeographicLib/MGRS.hpp>
-#include <GeographicLib/UTMUPS.hpp>
+
+#include "/home/rezoom/geographiclib/include/GeographicLib/MGRS.hpp"
+#include "/home/rezoom/geographiclib/include/GeographicLib/UTMUPS.hpp"
 
 #include <string>
 

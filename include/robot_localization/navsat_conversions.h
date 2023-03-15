@@ -54,8 +54,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#include <GeographicLib/MGRS.hpp>
-#include <GeographicLib/UTMUPS.hpp>
+#include "/home/rezoom/geographiclib/include/GeographicLib/MGRS.hpp"
+#include "/home/rezoom/geographiclib/include/GeographicLib/UTMUPS.hpp"
 
 namespace RobotLocalization
 {
